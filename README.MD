@@ -48,7 +48,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A sacred river flowing through a lush rainforest, guided by an indigenous guardian in traditional attire, surrounded by glowing blue water symbolizing purity and sustainability, modern water treatment structures subtly blended with nature, sunlight breaking through the mist, ethereal atmosphere, representing the harmony between ancestral wisdom and sustainable technology, ultra-detailed, cinematic lighting, vibrant colors, epic composition, 4k--v 5.1 |
 
 ## ✨ Features
 
