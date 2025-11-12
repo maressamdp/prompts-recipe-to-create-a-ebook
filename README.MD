@@ -40,7 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de saneamento básico, o ebook é do nicho de tratamento de água e o subnicho é de metas da ONU, o título deve ser épico e curto, e tenha uma temática de índigena no título, me liste 5 variações de títulos                                                     |
+|  título  | Crie um título de um ebook sobre o tema de saneamento básico, o ebook é do nicho de tratamento de água e o subnicho é  metas da ONU, o título deve ser épico e curto, e tenha uma temática de índigena no título, me liste 5 variações de títulos                                                     |
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
